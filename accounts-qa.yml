@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Teaster APIs "
+  message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "{cipher}2eab4b4c3f93dcc5f520e79d5bcc64d5a10d8527222bac82a139b437de3ae5be89326d1fe09f304634a42ad327339662"
     email: "{cipher}ada7a7448222edd3fc53fa7fa3afa599c3ec08224a9055aa430e70c35d3ed01a2327eb58e2cd31e17a13358da575319e"
